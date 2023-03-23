@@ -1,2 +1,2 @@
 # python_text_to_speech
-A simple program in python which converts text of a language to speech.
+This is a Python program that can effectively convert text in any of the available languages into high-quality human speech using the gTTS library.
